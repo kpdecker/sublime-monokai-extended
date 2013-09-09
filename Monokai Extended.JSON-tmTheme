@@ -373,6 +373,14 @@
             }
         }, 
         {
+            "name": "JS: Keyword", 
+            "scope": "variable.language.js", 
+            "settings": {
+                "fontStyle": "", 
+                "foreground": "#a6e22e"
+            }
+        }, 
+        {
             "name": "JS: Storage Type", 
             "scope": "storage.type.js", 
             "settings": {

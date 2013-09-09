@@ -691,17 +691,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JSON String</string>
-			<key>scope</key>
-			<string>meta.structure.dictionary.json string.quoted.double.json</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#cfcfc2</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>PHP: []</string>
 			<key>scope</key>
 			<string>keyword.operator.index-start.php, keyword.operator.index-end.php</string>
